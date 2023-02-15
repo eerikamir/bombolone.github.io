@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fi">
+	<head>
+		<title> Kennel Bombolone</title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" a href="pentueet.css"/>
+<body>
+
+
+<h1> Kennel Bombolone </h1> 
+<a href="index.html">Etusivu</a>
+<a href="Koirat.html">Koirat</a>
+<a href="Yhteystiedot.html">Yhteystiedot</a>
+
+<h2> Pentueet </h2>
+<P> Ei pentueita suunnitelmissa </p> 
+<img src="pentub.JPG" alt="pentub" width="460" height="345">
+
+
+</body>
+</html>
