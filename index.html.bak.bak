@@ -11,16 +11,12 @@
 		
 		</style>
 	</head>
-		<div class="vertical-menu">
-		<a href="#Tervetuloa" class="active">Etusivu</a>
 	<body>
 	<nav id="navbar">
 		<a href="#Tervetuloa">Etusivu</a>
 		<a href="#Koirat">Koirat</a>
 		<a href="#Pentueet">Pentueet</a>
 		<a href="#Yhteystiedot">Yhteystiedot</a>
-		</div>
-	<body>
 		</nav>
 		<div id="content">
 	<h1 id="myHeader">Kennel Bombolone</h1>
