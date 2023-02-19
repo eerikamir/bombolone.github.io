@@ -11,6 +11,7 @@
 		
 		</style>
 	</head>
+	<div id="content">
 		<div class="vertical-menu">
 		<a href="#Tervetuloa" class="active">Etusivu</a>
 		<a href="#Koirat">Koirat</a>
