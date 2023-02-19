@@ -12,22 +12,19 @@ body {
 			font-family: 'Brush Script MT' , cursive;
 			font-size: 80px;
 		}
-		.vertical-menu a {
-			width: 200px; 
-			}
-		
-		.vertical-menu a {
-			background-color: pink; 
-			color: #eee; 
-			display: block; 
-			padding: 12px; 
-			text-decoration: none;
-			}
-		.vertical-menu a:hover {
-			background-color:#ccc;
-			}
-		.vertical-menu a.active {
-		background-color: white; 
-		}
+#navbar {
+	overflow: hidden; 
+	background-color: black
+	}
+	
+#navbar a {
+	font-size: x-large; 
+	float: left;
+	display: block; 
+	color: pink; 
+	text-align: center;
+	padding: 14px; 
+	text-decoration: none; 
+	}
 		
 		
