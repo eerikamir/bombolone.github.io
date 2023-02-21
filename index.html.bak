@@ -5,13 +5,22 @@
 		<meta charset="UTF-8"/>
 		<link rel="stylesheet" a href="styles.css"/>
 		<style>
+		#myHeader {
+			color: black;
+		}
+		
 		</style>
 	</head>
 	<body>
+	<nav id="navbar">
+		<a href="#Tervetuloa">Etusivu</a>
+		<a href="#Koirat">Koirat</a>
+		<a href="#Pentueet">Pentueet</a>
+		<a href="#Yhteystiedot">Yhteystiedot</a>
+		
+		</nav>
+		<div id="content">
 	<h1 id="myHeader">Kennel Bombolone</h1>
-	<a href="Koirat.html">Koirat</a>
-	<a href="Pentueet.html">Pentueet</a>
-	<a href="Yhteystiedot.html">Yhteystiedot</a>
 	<h2 class="otsikot"><b>Tervetuloa tutustumaan Bombolonen kennelin kotisivuihin!</b></h2>
 	<p> Kasvatan pienimuotoisesti muun värisiä kleinspitzejä sekä toivottavasti tulevaisuudessa myöskin punaisia irlanninsettereitä. </p>
 	<p> Koirat elävät ja asuvat kotonamme perheenjäseninä. Harrastan aktiivisesti koirieni kanssa erityisesti koiranäyttelyitä, mutta myös muita koiraharrastuslajeja. </p> 
@@ -19,6 +28,17 @@
 	olen suorittanut vuonna 2020, ja kennelnimeni Bombolone myönnettiin minulle vuonna 2023. </p>
 	<p> &nbsp;</p>
 	<img src="agilityb.png"> 
+	
+	<h2 id="Koirat">Koirat</h2>
+	<p> Kotona minulla on tällä hetkellä yksi koira, 11-vuotias seniori Bonzo</p>
+	<section> 
+	</section>
+	<h2 id="Pentueet">Pentueet</h2>
+	<p> Ei pentueita suunnitelmissa tällä hetkellä</p> 
+	<section>
+	</section>
+	<h2 id="Yhteystiedot">Yhteystiedot</h2>
+	<p> Ota minuun yhteyttä sähköpostitse: d117787@student.uwasa.fi</p>
 	
 	
 	
